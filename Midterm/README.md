@@ -34,10 +34,3 @@ Dependencies
 
 requests, json, csv, datetime, collections.
 
-
-
-Discussion and Development
-
-Since pandas development is related to a number of other scientific Python projects, questions are welcome on the scipy-user mailing list. Specialized discussions or design issues should take place on the PyData mailing list / Google group:
-
-https://groups.google.com/forum/#!forum/pydata
