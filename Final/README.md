@@ -1,6 +1,6 @@
 # INFO7374 18218 Data Analysis Using Python - Fall 2016 #
-## Final Project - Exploration of Data Scientist ##
-This project is mainly about Data Scientist:
+## Final Project - Exploration of Data Scientist Jobs ##
+This project is mainly about Data Scientist Jobs:
 
 1. Data is web scraped from Monster.com and Indeed.com among ten mainly IT cities(San-Francisco, Boston, Palo Alto, Chicago, New-York, Washington, Seattle, Atlanta, Houston, San-Diego)
 2. How are skill-sets and degree needed among different city and different size of companies?
