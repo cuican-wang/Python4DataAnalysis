@@ -316,10 +316,10 @@ The first row of data I got is as following:
 </td><td>0
 </td><td>0
 </td></tr>
-  </tbody>
+</tbody>
   
- </table>
-  </div>
+</table>
+</div>
 
 
 ## Data Pre-exploration: ##
@@ -508,19 +508,7 @@ Performed analysis on which day of a week usually have the most job postings. Yo
 
 	dictframe = pd.DataFrame(list(dict.items()))
 
-<style type="text/css">
-	table{
-	   
-	    table-layout:fixed;/* 只有定义了表格的布局算法为fixed，下面td的定义才能起作用。 */
-	}
-	td{
-	    width:100px;
-	    word-break:keep-all;/* 不换行 */
-	    white-space:nowrap;/* 不换行 */
-	    overflow:hidden;/* 内容超出宽度时隐藏超出部分的内容 */
-	    text-overflow:ellipsis;/* 当对象内文本溢出时显示省略标记(...) ；需与overflow:hidden;一起使用。*/
-	}
-</style>
+
 <div style="overflow-x: auto; overflow-y: auto; height: 350px; width:300px;" type = "text/css">
     <table id="table" class="table" border="1" align="center" width="100px" height="200px">
   <tbody >
