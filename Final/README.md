@@ -322,12 +322,13 @@ The first row of data I got is as following:
   </div>
 
 
-## Data Pre-exploration ##
+## Data Pre-exploration: ##
 Break down the whole data according to city and job post date. After pre-exploration, data is as following:
-![](http://i.imgur.com/BmRNg3i.png)
-![](http://i.imgur.com/tYRLzxg.png)
-![](http://i.imgur.com/xixQM7a.png)
-![](http://i.imgur.com/0bMw9B0.png)
+
+![](http://i.imgur.com/zMbZs8a.png)
+![](http://i.imgur.com/lsddBO0.png)
+![](http://i.imgur.com/q7lU3qh.png)
+![](http://i.imgur.com/26K8yeq.png)
 
 ## Analysis_1: What about everyone's comments on the company?##
 Performed sentiment analysis of companies' reviews and got a review score by using indicoio api.
